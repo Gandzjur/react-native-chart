@@ -1,8 +1,7 @@
 /* @flow */
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import { ART } from 'react-native';
-const { Path, Shape } = ART;
+import { Path, Shape } from '@react-native-community/art';
 import * as C from './constants';
 
 export default class Circle extends Component {
