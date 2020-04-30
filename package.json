@@ -45,6 +45,7 @@
   "_spec": "react-native-chart@1.0.8-beta",
   "_where": "/Users/aw2taman/Desktop/CompassApp",
   "dependencies": {
+    "@react-native-community/art": "^1.2.0",
     "babel-cli": "^6.10.1",
     "babel-eslint": "^6.0.0",
     "babel-plugin-transform-flow-strip-types": "^6.8.0",
